@@ -1,20 +1,20 @@
 API-Craft Detroit 2014 - Hypermedia Panel
 =======================================
 
-This is a working repository for the hypermedia panel at API Craft Detroit 2014.
+This is a working repository for the hypermedia panel at [APICraft Detroit 2014](http://api-craft.org/).
 
-Format: 
+**Format:**
 
 * 2 hour panel
   * 10 minute press by each panelist
   * 1 hour of conversation
 
-When: 1pm-3pm, Monday, July 28th 2014
-Where:Grand Circus http://grandcircus.co/ downtown Detroit
+**When:** 1pm-3pm, Monday, July 28th 2014
+**Where:** Grand Circus http://grandcircus.co/ downtown Detroit
 
 Panel will be followed by a hands-on hypermedia hackathon that will run from 3:30pm to 7pm. 
 
-Panelists:
+**Panelists:**
 
 * Mike Amundsen ([@mamund](https://twitter.com/mamund))
 * Mike Kelly ([@mikekelly85](https://twitter.com/mikekelly85))
@@ -23,9 +23,9 @@ Panelists:
 * Jørn Wildt ([@JornWildt](https://twitter.com/JornWildt))
 * Markus Lanthaler ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
 
-Panelists: Kin Lane ([@kinlane](https://twitter.com/kinlane))
+**Panelists:** Kin Lane ([@kinlane](https://twitter.com/kinlane))
 
-Title: State of Hypermedia Today
+**Title:** State of Hypermedia Today
 
 * What is the state of hypermedia?
 * How did we get here?
