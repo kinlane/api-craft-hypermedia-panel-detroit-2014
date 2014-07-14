@@ -16,12 +16,12 @@ Panel will be followed by a hands-on hypermedia hackathon that will run from 3:3
 
 Panelists:
 
-* Mike Amundsen - https://twitter.com/mamund
-* Mike Kelly - https://twitter.com/mikekelly85
-* Steve Klabnik - https://twitter.com/steveklabnik
-* Kevin Swiber  - https://twitter.com/kevinswiber
-* Jørn Wildt - https://twitter.com/JornWildt
-* Markus Lanthaler - https://twitter.com/MarkusLanthaler
+* Mike Amundsen ([@mamund](https://twitter.com/mamund))
+* Mike Kelly ([@mikekelly85](https://twitter.com/mikekelly85))
+* Steve Klabnik ([@steveklabnik](https://twitter.com/steveklabnik))
+* Kevin Swiber ([@kevinswiber](https://twitter.com/kevinswiber))
+* Jørn Wildt ([@JornWildt](https://twitter.com/JornWildt))
+* Markus Lanthaler ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
 
 Panelists: Kin Lane ([@kinlane](https://twitter.com/kinlane))
 
@@ -32,7 +32,6 @@ Title: State of Hypermedia Today
 * Where are we going?
 * Where should we be going?
 * What can we do during hackathon?
-* What should everyone leave API-Craft thinking about?
-  * Mike Amundsen
-    * adding hypermedia to an API is a way to improve the API's usability
-    * the more hypermedia information in a response, the more stateless that response can be.
+* What are two things everyone leave API-Craft thinking about?
+  * adding hypermedia to an API is a way to improve the API's usability ([@mamund](https://twitter.com/mamund))
+  * the more hypermedia information in a response, the more stateless that response can be ([@mamund](https://twitter.com/mamund))
