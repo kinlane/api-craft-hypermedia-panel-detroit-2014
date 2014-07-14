@@ -23,6 +23,8 @@ Panelists:
 * Jørn Wildt - https://twitter.com/JornWildt
 * Markus Lanthaler - https://twitter.com/MarkusLanthaler
 
+Panelists: Kin Lane ([@kinlane](https://twitter.com/kinlane))
+
 Title: State of Hypermedia Today
 
 * What is the state of hypermedia?
