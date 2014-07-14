@@ -32,6 +32,6 @@ Panel will be followed by a hands-on hypermedia hackathon that will run from 3:3
 * Where are we going?
 * Where should we be going?
 * What can we do during hackathon?
-* What are two things everyone leave API-Craft thinking about?
+* What are two things everyone should leave API-Craft thinking about?
   * adding hypermedia to an API is a way to improve the API's usability ([@mamund](https://twitter.com/mamund))
   * the more hypermedia information in a response, the more stateless that response can be ([@mamund](https://twitter.com/mamund))
