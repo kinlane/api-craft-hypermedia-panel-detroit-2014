@@ -37,5 +37,5 @@ Panel will be followed by a hands-on hypermedia hackathon that will run from 3:3
   * the more hypermedia information in a response, the more stateless that response can be ([@mamund](https://twitter.com/mamund))
   * Hypermedia allows us to go beyond CRUD-influenced API design, enabling a task-based message design consisting of current resource state and available transitions.  This provides a richer interaction model between client and server.  ([@kevinswiber](https://twitter.com/kevinswiber))
   * The best way to improve the state of the art is to see hypermedia applied to more use cases and have feedback shared publicly with the community. ([@kevinswiber](https://twitter.com/kevinswiber))
-  * What are the metrics of success for your API? How do hypermedia designs contribute to or detract from those metrics?
-  * Are more complicated media types, that require more than an HTTP library and a JSON parser to deal with, moving away from the "simplicity" that has been driving web API adoption over SOAP?
+  * What are the metrics of success for your API? How do hypermedia designs contribute to or detract from those metrics? ([@mikekelly85](https://twitter.com/mikekelly85))
+  * Are more complicated media types, that require more than an HTTP library and a JSON parser to deal with, moving away from the "simplicity" that has been driving web API adoption over SOAP?  ([@mikekelly85](https://twitter.com/mikekelly85))
