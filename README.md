@@ -39,3 +39,4 @@ Panel will be followed by a hands-on hypermedia hackathon that will run from 3:3
   * The best way to improve the state of the art is to see hypermedia applied to more use cases and have feedback shared publicly with the community. ([@kevinswiber](https://twitter.com/kevinswiber))
   * What are the metrics of success for your API? How do hypermedia designs contribute to or detract from those metrics? ([@mikekelly85](https://twitter.com/mikekelly85))
   * Are more complicated media types, that require more than an HTTP library and a JSON parser to deal with, moving away from the "simplicity" that has been driving web API adoption over SOAP?  ([@mikekelly85](https://twitter.com/mikekelly85))
+  * What are the benefits of adding HTTP method and payload encoding information to links - aka forms/actions for APIs? What are the problems? Is it worth it?  ([@JornWildt](https://twitter.com/JornWildt))
