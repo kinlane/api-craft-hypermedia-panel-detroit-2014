@@ -12,7 +12,7 @@ This is a working repository for the hypermedia panel at [APICraft Detroit 2014]
 **When:** 1pm-3pm, Monday, July 28th 2014
 **Where:** Grand Circus http://grandcircus.co/ downtown Detroit
 
-Panel will be followed by a hands-on hypermedia hackathon that will run from 3:30pm to 7pm. 
+Panel will be followed by a hands-on hypermedia hackathon that will run from 3:30pm to 7pm.
 
 **Panelists:**
 
@@ -38,5 +38,8 @@ Panel will be followed by a hands-on hypermedia hackathon that will run from 3:3
   * Hypermedia allows us to go beyond CRUD-influenced API design, enabling a task-based message design consisting of current resource state and available transitions.  This provides a richer interaction model between client and server.  ([@kevinswiber](https://twitter.com/kevinswiber))
   * The best way to improve the state of the art is to see hypermedia applied to more use cases and have feedback shared publicly with the community. ([@kevinswiber](https://twitter.com/kevinswiber))
   * What are the metrics of success for your API? How do hypermedia designs contribute to or detract from those metrics? ([@mikekelly85](https://twitter.com/mikekelly85))
-  * Are more complicated media types, that require more than an HTTP library and a JSON parser to deal with, moving away from the "simplicity" that has been driving web API adoption over SOAP?  ([@mikekelly85](https://twitter.com/mikekelly85))
+  * Is adding links to a response enough? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
   * What are the benefits of adding HTTP method and payload encoding information to links - aka forms/actions for APIs? What are the problems? Is it worth it?  ([@JornWildt](https://twitter.com/JornWildt))
+  * Are more complicated media types, that require more than an HTTP library and a JSON parser to deal with, moving away from the "simplicity" that has been driving web API adoption over SOAP?  ([@mikekelly85](https://twitter.com/mikekelly85))
+  * Does adding hypermedia really help if the data itself can't be understood without out-of-band knowledge? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
+  * What are the pros and cons of moving hypermedia controls to a separate, machine-readable document (API descriptions) compared to embedding them directly in resource representations? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
