@@ -43,3 +43,4 @@ Panel will be followed by a hands-on hypermedia hackathon that will run from 3:3
   * Are more complicated media types, that require more than an HTTP library and a JSON parser to deal with, moving away from the "simplicity" that has been driving web API adoption over SOAP?  ([@mikekelly85](https://twitter.com/mikekelly85))
   * Does adding hypermedia really help if the data itself can't be understood without out-of-band knowledge? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
   * What are the pros and cons of moving hypermedia controls to a separate, machine-readable document (API descriptions) compared to embedding them directly in resource representations? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
+  * How would an ideal hypermedia client library look like? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
