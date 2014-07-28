@@ -44,3 +44,4 @@ Panel will be followed by a hands-on hypermedia hackathon that will run from 3:3
   * Does adding hypermedia really help if the data itself can't be understood without out-of-band knowledge? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
   * What are the pros and cons of moving hypermedia controls to a separate, machine-readable document (API descriptions) compared to embedding them directly in resource representations? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
   * How would an ideal hypermedia client library look like? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
+  * People often have a knee jerk reaction to dismiss hypermedia APIs as a complex approach to API design. What is your three sentence pitch to convince these people that it is not overkill, and in fact can be a simpler approach over time? ([@MattMcLartyBC](https://twitter.com/MattMcLartyBC))
