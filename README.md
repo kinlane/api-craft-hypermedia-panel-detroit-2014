@@ -45,3 +45,15 @@ Panel will be followed by a hands-on hypermedia hackathon that will run from 3:3
   * What are the pros and cons of moving hypermedia controls to a separate, machine-readable document (API descriptions) compared to embedding them directly in resource representations? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
   * How would an ideal hypermedia client library look like? ([@MarkusLanthaler](https://twitter.com/MarkusLanthaler))
   * People often have a knee jerk reaction to dismiss hypermedia APIs as a complex approach to API design. What is your three sentence pitch to convince these people that it is not overkill, and in fact can be a simpler approach over time? ([@MattMcLartyBC](https://twitter.com/MattMcLartyBC))
+
+**Formats:**
+
+* Collection+JSON - http://amundsen.com/media-types/collection/format/
+* UBER - https://rawgit.com/mamund/media-types/master/uber-hypermedia.html
+* ALPS - http://alps.io/
+* HAL - http://stateless.co/hal_specification.html
+* Siren - https://github.com/kevinswiber/siren
+* Hydra - http://www.markus-lanthaler.com/hydra/
+* JSON-LD - http://json-ld.org/
+* json:api - http://jsonapi.org/
+* Mason - https://github.com/JornWildt/Mason
